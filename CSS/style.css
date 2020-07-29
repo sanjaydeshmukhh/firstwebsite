@@ -125,6 +125,8 @@ flex-direction: column;
 
 .btn-sm{
     padding: 6px 10px;
+     color: black;
+    border: 2px solid;
 }
 
 .secRight{
@@ -217,8 +219,5 @@ flex-direction: column;
         margin: 5px 3px;
     }
 
-.btn-sm{
- color: black;
-    border: 2px solid;   
-}
+
     
